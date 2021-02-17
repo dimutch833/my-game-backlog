@@ -1,6 +1,5 @@
 Нові:
 
-AC: Unity,
 AC3:Remastered,
 Yakuza 0 (Oh Yeah)
 We happy few.
@@ -18,3 +17,7 @@ Spec Ops:The Line(Перепройти)
 
 Destiny 2
 CSGO(Може якщо захочу то скачаю)
+
+Не зайшло:
+
+AC: Unity,
