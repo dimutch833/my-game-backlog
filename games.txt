@@ -7,6 +7,8 @@ Borderlands 1,2,pre seq
 Prey
 Dishonored
 Bioshock
+Dying Light
+Mad Max
 
 Перепройти:
 
