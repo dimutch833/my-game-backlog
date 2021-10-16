@@ -3,6 +3,8 @@
 * Remember me
 * AC3:Remastered
 * Nier Automata
+* Alan Wake
+* Sekiro : Shadows die twice
 * AC:Valhalla
 * Rage
 * Singularity
