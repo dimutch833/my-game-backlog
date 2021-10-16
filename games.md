@@ -4,6 +4,8 @@
 * AC3:Remastered
 * Nier Automata
 * AC:Valhalla
+* Rage
+* Singularity
 
 ## Потім куплю:
 * Yakuza Kiwami
