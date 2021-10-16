@@ -1,9 +1,9 @@
-Нові:
-Horizon Zero Dawn
-Remember me
-AC3:Remastered
-Nier Automata
-AC:Valhalla
+# Нові:
+### Horizon Zero Dawn
+### Remember me
+### AC3:Remastered
+### Nier Automata
+### AC:Valhalla
 
 Потім куплю:
 Yakuza Kiwami
