@@ -10,6 +10,7 @@
 * Singularity
 
 ## Потім куплю:
+* Far Cry 6
 * Yakuza Kiwami
 * Dying Light
 
