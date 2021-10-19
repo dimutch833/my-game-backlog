@@ -1,12 +1,9 @@
 ## Нові:
 * Horizon Zero Dawn
 * Remember me
-* AC3:Remastered
 * Nier Automata
-* Alan Wake
 * Sekiro : Shadows die twice
-* Rage
-* Singularity
+
 
 ## Потім куплю:
 * Far Cry 6
@@ -43,6 +40,10 @@
 * Sniper:Ghost Warrior 2.(є в стімі)
 * Deus Ex:Mankind Divided
 * Enslaved:Odyssey to the west
+* Rage
+* Singularity
+* Alan Wake
+* AC3:Remastered
 
 
 ## Мойо почтеніє:
