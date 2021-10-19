@@ -5,7 +5,6 @@
 * Nier Automata
 * Alan Wake
 * Sekiro : Shadows die twice
-* AC:Valhalla
 * Rage
 * Singularity
 
@@ -38,6 +37,7 @@
 
 ## Потім:
 * AC: Unity
+* AC:Valhalla
 * AC:Odyssey
 * We happy few.
 * Sniper:Ghost Warrior 2.(є в стімі)
