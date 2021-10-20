@@ -3,6 +3,7 @@
 * Remember me
 * Nier Automata
 * Sekiro : Shadows die twice
+* Vampyr
 
 
 ## Потім куплю:
