@@ -1,5 +1,6 @@
 ## Нові:
 * Horizon Zero Dawn
+* Dying Light
 * Remember me
 * Nier Automata
 * Sekiro : Shadows die twice
@@ -9,7 +10,6 @@
 ## Потім куплю:
 * Far Cry 6
 * Yakuza Kiwami
-* Dying Light
 
 ## Перепройти:
 * Quantum Brake(Перепройти)
