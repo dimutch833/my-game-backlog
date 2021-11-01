@@ -1,7 +1,7 @@
 ## Нові:
-* Horizon Zero Dawn
 * Dying Light
 * Remember me
+* Tomb Raider Legend
 * Nier Automata
 * Sekiro : Shadows die twice
 * Vampyr
@@ -55,6 +55,7 @@
 * Crysis 3(пройдено)
 * Death Stranding(пройдено)
 * Prey 2017(Пройдено)
+* Horizon Zero Dawn(Пройдено)
 
 
 ## Check: 
