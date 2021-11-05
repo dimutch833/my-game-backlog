@@ -1,18 +1,16 @@
 ## Нові:
-* Remember me
-* Tomb Raider Legend
 * Nier Automata
 * Sekiro : Shadows die twice
 * Vampyr
+* Remember me
+* Tomb Raider Legend
 
 
 ## Потім куплю:
-* Far Cry 6
 * Yakuza Kiwami
 
 ## Перепройти:
 * Quantum Brake(Перепройти)
-* Cyberpunk 2077(Перепройти)
 * Shadow of Tomb Raider(Перепройти)
 * Titanfall 2 (Перепройти),
 * Battlefield 5(перепройти)
@@ -47,6 +45,7 @@
 
 
 ## Мойо почтеніє:
+* Cyberpunk 2077(Перепройти)
 * Yakuza 0 (Oh Yeah)(є в стімі)
 * Destiny 2 (є в стімі)
 * Borderlands 1,2,pre seq
