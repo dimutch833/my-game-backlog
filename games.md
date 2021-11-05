@@ -1,5 +1,4 @@
 ## Нові:
-* Dying Light
 * Remember me
 * Tomb Raider Legend
 * Nier Automata
@@ -56,7 +55,7 @@
 * Death Stranding(пройдено)
 * Prey 2017(Пройдено)
 * Horizon Zero Dawn(Пройдено)
-
+* Dying Light(Пройдено)
 
 ## Check: 
 * Hellblade Senua Sacrifice
