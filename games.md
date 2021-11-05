@@ -1,7 +1,4 @@
 ## Нові:
-* Nier Automata
-* Sekiro : Shadows die twice
-* Vampyr
 * Remember me
 * Tomb Raider Legend
 
