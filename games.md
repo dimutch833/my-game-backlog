@@ -1,4 +1,5 @@
 ## Нові:
+* Syndicate
 * Enslaved:Odyssey to the west
 * Remember me
 * Tomb Raider Legend
