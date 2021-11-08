@@ -1,4 +1,5 @@
 ## Нові:
+* Enslaved:Odyssey to the west
 * Remember me
 * Tomb Raider Legend
 
@@ -34,7 +35,6 @@
 * We happy few.
 * Sniper:Ghost Warrior 2.(є в стімі)
 * Deus Ex:Mankind Divided
-* Enslaved:Odyssey to the west
 * Rage
 * Singularity
 * Alan Wake
