@@ -1,4 +1,5 @@
 ## Нові:
+* Gears 5
 * Syndicate
 * Enslaved:Odyssey to the west
 * Remember me
