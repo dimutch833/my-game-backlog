@@ -1,5 +1,6 @@
 ## Нові:
 * Gears 5
+* Mass Efect 1
 * Syndicate
 * Enslaved:Odyssey to the west
 * Remember me
