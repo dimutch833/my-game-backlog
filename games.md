@@ -1,5 +1,4 @@
 ## Нові:
-* Halo 
 * Yakuza Kiwami
 * Fallout 4
 * The Outer Worlds
