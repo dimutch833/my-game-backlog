@@ -1,5 +1,4 @@
 ## Нові:
-* AC3:Remastered
 * Yakuza Kiwami
 * Fallout 4
 * The Outer Worlds
