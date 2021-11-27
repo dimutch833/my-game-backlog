@@ -1,4 +1,5 @@
 ## Нові:
+* AC3:Remastered
 * Yakuza Kiwami
 * Fallout 4
 * The Outer Worlds
@@ -39,7 +40,6 @@
 * Rage
 * Singularity
 * Alan Wake
-* AC3:Remastered
 * Tomb Raider Legend
 
 
