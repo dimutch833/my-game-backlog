@@ -1,5 +1,6 @@
 ## Нові:
 * Halo 
+* Yakuza Kiwami
 * Fallout 4
 * The Outer Worlds
 * Assassins creed 4
@@ -7,10 +8,6 @@
 * Syndicate
 * Enslaved:Odyssey to the west
 * Remember me
-
-
-## Потім куплю:
-* Yakuza Kiwami
 
 ## Перепройти:
 * Quantum Brake(Перепройти)
