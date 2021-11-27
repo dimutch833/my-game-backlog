@@ -1,5 +1,6 @@
 ## Нові:
 * Halo 
+* Fallout 4
 * The Outer Worlds
 * Assassins creed 4
 * Mass Efect 1 2 3
