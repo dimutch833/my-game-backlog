@@ -1,5 +1,6 @@
 ## Нові:
 * Deus Ex:Mankind Divided
+* Alan Wake
 * Yakuza Kiwami
 * Fallout 4
 * The Outer Worlds
@@ -38,7 +39,6 @@
 * Sniper:Ghost Warrior 2.(є в стімі)
 * Rage
 * Singularity
-* Alan Wake
 * Tomb Raider Legend
 
 
