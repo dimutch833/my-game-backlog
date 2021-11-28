@@ -1,4 +1,5 @@
 ## Нові:
+* Deus Ex:Mankind Divided
 * Yakuza Kiwami
 * Fallout 4
 * The Outer Worlds
@@ -35,7 +36,6 @@
 * AC:Odyssey
 * We happy few.
 * Sniper:Ghost Warrior 2.(є в стімі)
-* Deus Ex:Mankind Divided
 * Rage
 * Singularity
 * Alan Wake
