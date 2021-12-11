@@ -2,7 +2,6 @@
 * Alan Wake
 * Yakuza Kiwami
 * Fallout 4
-* The Outer Worlds
 * Assassins creed 4
 * Mass Efect 1 2 3
 * Syndicate
@@ -40,6 +39,7 @@
 * Singularity
 * Deus Ex:Mankind Divided
 * Tomb Raider Legend
+* The Outer Worlds
 
 
 ## Мойо почтеніє:
