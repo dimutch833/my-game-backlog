@@ -1,7 +1,6 @@
 ## Нові:
 * Alan Wake
 * Yakuza Kiwami
-* Fallout 4
 * Assassins creed 4
 * Mass Efect 1 2 3
 * Syndicate
