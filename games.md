@@ -2,7 +2,7 @@
 * Alan Wake
 * Yakuza Kiwami
 * Assassins creed 4
-* Mass Efect 1 2 3
+* Mass Effect 1 2 3
 * Syndicate
 * Enslaved:Odyssey to the west
 * Remember me
