@@ -1,7 +1,5 @@
 ## Нові:
 * Yakuza Kiwami
-* Assassins creed 4
-* Mass Effect 1 2 3
 * Syndicate
 * Enslaved:Odyssey to the west
 * Remember me
@@ -38,6 +36,8 @@
 * Deus Ex:Mankind Divided
 * Tomb Raider Legend
 * The Outer Worlds
+* Assassins creed 4
+* Mass Effect 1 2 3
 
 
 ## Мойо почтеніє:
