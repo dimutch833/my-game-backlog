@@ -1,5 +1,4 @@
 ## Нові:
-* Alan Wake
 * Yakuza Kiwami
 * Assassins creed 4
 * Mass Effect 1 2 3
