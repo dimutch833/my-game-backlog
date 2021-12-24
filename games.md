@@ -1,6 +1,5 @@
 ## Нові:
 * Yakuza Kiwami
-* Syndicate
 * Enslaved:Odyssey to the west
 * Remember me
 * Mass Effect 1 2 3
