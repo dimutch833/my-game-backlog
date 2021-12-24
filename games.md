@@ -3,6 +3,7 @@
 * Syndicate
 * Enslaved:Odyssey to the west
 * Remember me
+* Mass Effect 1 2 3
 
 ## Перепройти:
 * Quantum Brake(Перепройти)
@@ -37,7 +38,6 @@
 * Tomb Raider Legend
 * The Outer Worlds
 * Assassins creed 4
-* Mass Effect 1 2 3
 
 
 ## Мойо почтеніє:
