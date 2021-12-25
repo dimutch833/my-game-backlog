@@ -1,6 +1,5 @@
 ## Нові:
 * Yakuza Kiwami
-* Resident Evil 8
 * Enslaved:Odyssey to the west
 * Remember me
 * Mass Effect 1 2 3
